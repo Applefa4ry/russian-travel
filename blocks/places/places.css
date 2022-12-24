@@ -18,5 +18,6 @@
 @media all and (max-width:767px) and (min-width:320px){
   .places{
     max-width: 320px;
+    margin-bottom: 64px;
   }
 }

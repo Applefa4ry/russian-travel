@@ -7,6 +7,11 @@
   color: #FFFFFF;
 }
 
+.website__link:hover{
+  opacity: 0.8;
+  transition: opacity 300ms ease-in-out;
+}
+
 @media all and (max-width:1023px) and (min-width:768px){
   .website__link{
     font-family: Inter;
