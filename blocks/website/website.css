@@ -1,10 +1,10 @@
-.place__website{
+.website{
   grid-area: website;
   align-self: flex-end;
 }
 
 @media all and (max-width:767px) and (min-width:320px){
-  .place__website{
+  .website{
     max-width: 288px;
     margin-left: 16px;
   }
