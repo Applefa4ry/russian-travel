@@ -15,7 +15,7 @@
 }
 
 .cover:hover .cover__background{
-  background-color: rgba(42,44,47,0.8);;
+  background-color: rgba(42,44,47,0.8);
   transition: background-color 300ms ease-in-out;
 }
 
