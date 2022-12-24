@@ -1,0 +1,14 @@
+.place__image{
+  grid-area: image;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+/* @media all and (max-width:767px) and (min-width:320px){
+  .place__image{
+    width: 320px;
+    max-width: 320px;
+    position: relative;
+  }
+} */
+
