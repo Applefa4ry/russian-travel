@@ -7,4 +7,4 @@
 * FlexBox
 * @media запросы
 
-[GitHub Pages](https://www.yandex.ru)
+[GitHub Pages](https://applefa4ry.github.io/russian-travel/)
