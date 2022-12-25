@@ -17,12 +17,12 @@
   align-items: center;
 }
 
-.cover__link{
+/* .cover__link{
   display: block;
   color: #fff;
   text-decoration: none;
   z-index: 4;
-}
+} */
 
 .cover::before{
   content: " ";
