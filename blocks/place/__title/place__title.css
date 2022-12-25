@@ -1,29 +1,25 @@
 .place__title{
   grid-area: tittle;
-  font-family: 'Inter';
+  font-family: 'Inter', Helvetica, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
+  letter-spacing: 0;
 }
 
-@media all and (max-width:1023px) and (min-width:768px){
+@media all and (max-width:1023px){
   .place__title{
-    font-family: Inter;
     font-size: 42px;
-    font-weight: 900;
     line-height: 46px;
-    letter-spacing: 0em;
+    padding-right: 10px;
   }
 }
 
-@media all and (max-width:767px) and (min-width:320px){
+@media all and (max-width:767px){
   .place__title{
-    font-family: Inter;
     font-size: 32px;
-    font-weight: 900;
     line-height: 35px;
-    letter-spacing: 0em;
     margin-left: 16px;
   }
 }
