@@ -10,6 +10,7 @@
 @media all and (max-width:1279px){
   .lead{
     max-width: 928px;
+    margin-bottom: 91px;
   }
 }
 
@@ -23,12 +24,6 @@
 @media all and (max-width:767px){
   .lead{
     max-width: 320px;
-    margin-bottom: 64px;
+    margin-bottom: 65px;
   }
 }
-
-/* @media all and (max-width:1024px) and (min-width:768px){
-  .lead{
-    max-width: 768px;
-  }
-} */

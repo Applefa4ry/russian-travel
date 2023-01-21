@@ -2,7 +2,15 @@
   font-family: Inter, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
-  line-height: 16px;
+  line-height: 18px;
   letter-spacing: 0px;
   align-self: flex-end;
+  margin-top: 0;
+}
+
+@media all and (max-width:767px) {
+  .footer__copyright{
+    align-self: flex-start;
+    margin-top: -20px
+  }
 }

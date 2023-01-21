@@ -18,16 +18,3 @@
   }
 }
 
-@media all and (max-width:767px){
-  .lead{
-    max-width: 320px;
-  }
-}
-
-
-/* @media all and (max-width:1279px) and (min-width:1024px) {
-  .content{
-    max-width: 928px;
-    overflow: hidden;
-  }
-} */

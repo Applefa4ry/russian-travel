@@ -1,16 +1,26 @@
 .lead__image{
-  max-width: 100%;
+  max-width: 984px;
+  margin-top: 0;
   margin-bottom: 7px;
+  object-fit: contain;
+  box-sizing: border-box;
 }
 
-/* @media all and (max-width:1280px) and (min-width:1024px){
+@media all and (max-width:1279px){
   .lead__image{
     max-width: 928px;
   }
 }
 
-@media all and (max-width:1024px) and (min-width:768px){
+@media all and (max-width:1023px){
   .lead__image{
-    min-width: 768px;
+    max-width: 100%;
   }
-} */
+}
+
+@media all and (max-width:767px){
+  .lead__image{
+    max-width: 320px;
+    margin-bottom: 5px;
+  }
+}
