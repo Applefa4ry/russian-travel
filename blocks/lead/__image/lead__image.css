@@ -20,7 +20,7 @@
 
 @media all and (max-width:767px){
   .lead__image{
-    max-width: 320px;
+    max-width: 305px;
     margin-bottom: 5px;
   }
 }

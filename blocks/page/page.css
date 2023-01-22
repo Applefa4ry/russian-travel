@@ -13,7 +13,7 @@
   box-sizing: border-box;
   padding-top: 28px;
   padding-bottom: 24px;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 @media all and (max-width:1279px) {

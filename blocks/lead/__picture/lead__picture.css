@@ -5,12 +5,12 @@
 
 @media all and (max-width:1023px){
   .lead__picture{
-    width: 768px;
+    width: 753px;
   }
 }
 
 @media all and (max-width:767px){
   .lead__picture{
-    max-width: 320px;
+    max-width: 305px;
   }
 }

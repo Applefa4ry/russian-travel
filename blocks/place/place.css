@@ -33,9 +33,9 @@
 
 @media all and (max-width:767px){
   .place{
-    max-width: 320px;
+    max-width: 305px;
     row-gap: 31px;
-    grid-template-columns: 320px;
+    grid-template-columns: 305px;
     grid-template-areas:  "tittle"
                           "website"
                           "image"
