@@ -11,14 +11,12 @@
 @media all and (max-width:1023px) {
   .intro__text{
     max-width: 720px;
-    white-space: normal;
   }
 }
 
 @media all and (max-width:767px){
   .intro__text{
     max-width: 288px;
-    letter-spacing: 0em;
     margin-bottom: 35px;
   }
 }

@@ -1,7 +1,12 @@
+*{
+  outline: 1px solid yellow;
+}
+
+
 .page{
   background: #2A2C2F;
   color: #fff;
-  font-family: Inter;
+  font-family: Inter, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
