@@ -1,16 +1,7 @@
 .lead__picture{
   padding: 0;
   margin: 0;
+  width: 100%;
 }
 
-@media all and (max-width:1023px){
-  .lead__picture{
-    width: 753px;
-  }
-}
 
-@media all and (max-width:767px){
-  .lead__picture{
-    max-width: 305px;
-  }
-}

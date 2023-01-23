@@ -1,29 +1,30 @@
 .intro{
   width: 984px;
   margin-bottom: 80px;
+  box-sizing: border-box;
 }
 
 @media all and (max-width:1279px){
   .intro{
-    max-width: 928px;
+    max-width:1024px;
     align-self: flex-start;
-    margin-left: 48px;
+    padding-left: 48px;
   }
 }
 
 @media all and (max-width:1023px){
   .intro{
     max-width: 720px;
-    margin-bottom: 75px;
-    margin-left: 24px;
+    margin-bottom: 76px;
+    padding-left: 24px;
   }
 }
 
 @media all and (max-width:767px){
   .intro{
-    max-width: 288px;
-    margin-bottom: 54px;
-    margin-left: 15px;
+    max-width: 100%;
+    margin-bottom: 52px;
+    padding-left: 15px;
   }
 }
 

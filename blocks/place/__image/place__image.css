@@ -6,7 +6,7 @@
 
 @media all and (max-width:767px){
   .place__image{
-    height: 305px;
+    width: 100%;
   }
 }
 

@@ -1,9 +1,11 @@
 .content{
-  max-width: 1184px;
+  max-width: 1280px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  box-sizing: border-box;
 }
 
 @media all and (max-width:1279px){
@@ -20,7 +22,7 @@
 
 @media all and (max-width:767px){
   .content{
-    max-width: 305px;
+    max-width: 320px;
   }
 }
 
