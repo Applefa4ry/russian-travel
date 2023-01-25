@@ -1,6 +1,6 @@
 .intro{
   width: 984px;
-  margin-bottom: 80px;
+  margin-bottom: 92px;
   box-sizing: border-box;
 }
 
@@ -15,7 +15,7 @@
 @media all and (max-width:1023px){
   .intro{
     max-width: 720px;
-    margin-bottom: 76px;
+    margin-bottom: 88px;
     padding-left: 24px;
   }
 }
@@ -23,7 +23,7 @@
 @media all and (max-width:767px){
   .intro{
     max-width: 100%;
-    margin-bottom: 52px;
+    margin-bottom: 64px;
     padding-left: 15px;
   }
 }
